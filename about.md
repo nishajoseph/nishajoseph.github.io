@@ -80,53 +80,16 @@
     
         </header>
         
-
 <div class="main clearfix">
-    <section class="container" id="posts">
-        
-        <div class="left-container">
-      					<article class="list clearfix">
-          					<h3><a href = "https://nishajoseph.github.io/2015/08/25/asasa.html">asasa</a></h3>
-         					<span class="by">Posted on 25 Aug 2015.</span>
-        					<p><p>sasasa</p>
-</p>
-        
-        
-    						<div class="socialbar">
-		                    <div class="clearfix"></div>
-			                    <ul>
-			                        <li>
-			                        <i class="icon-tag-1"></i>
-			                          
-			                        </li>
-			                        <li><i class="icon-comment"></i> <span>
-                                        <a href="https://nishajoseph.github.io/2015/08/25/asasa.html#disqus_thread">asasa</a>
-		                                <fb:comments-count href=https://nishajoseph.github.io/2015/08/25/asasa.html></fb:comments-count>
-                                            <div class="g-commentcount" data-href="https://nishajoseph.github.io/2015/08/25/asasa.html"></div>
-                                    </span></li>
-			                        <li class="push-right">
-			                            <a href="https://twitter.com/intent/tweet?text=https://nishajoseph.github.io/2015/08/25/asasa.html" onclick="javascript:window.open(this.href,
-                                            '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-twitter-circled"></i></a>
-                                        <a href="http://www.facebook.com/share.php?u=https://nishajoseph.github.io/2015/08/25/asasa.html" onclick="javascript:window.open(this.href,
-                                            '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-facebook-circled"></i></a>
-                                        <a href="https://plus.google.com/share?url=https://nishajoseph.github.io/2015/08/25/asasa.html" onclick="javascript:window.open(this.href,
-                                            '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-gplus-circled"></i></a>
-			                        </li>
-			                    </ul>
-                			</div>    
-      					</article>
-
-
-	      	<div class="socialbar">
-	            <div class="clearfix"></div>
-	                <ul>
-	                	
-	                    
-	                </ul>
-	            </div>
-	        </div>  
-	        
-
+	<section class="container" id="posts">
+		<div class="left-container">
+	  		<article class="list clearfix">
+	  			<h3></h3>
+				<p><p>Here goes the about content.</p>
+</p>    
+	  		</article>
+		</div>
+			
 
 <div class="right-container">
           <div class="right-col">
